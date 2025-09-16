@@ -12,7 +12,7 @@ Atliq faced challenges with data transparency, reliance on Excel, and lack of in
     - Marketing: Product Performance, Product Matrix, Unit Economics  
     - Supply Chain: Forecast Accuracy, Net Error, Absolute Error, Key Metrics for Customers & Products  
     - Executive: Market Share %, Revenue by Channel & Division, Top Customers & Products
-  https://app.powerbi.com/view?r=eyJrIjoiZWVhNDY0NDYtOGYxOS00MDliLThlN2ItZmMxODNkMzM5NDExIiwidCI6IjgwOGNjODNlLWE1NDYtNDdlNy1hMDNmLTczYTFlYmJhMjRmMyIsImMiOjEwfQ%3D%3D
+    -  view my interactive dashboard https://app.powerbi.com/view?r=eyJrIjoiZWVhNDY0NDYtOGYxOS00MDliLThlN2ItZmMxODNkMzM5NDExIiwidCI6IjgwOGNjODNlLWE1NDYtNDdlNy1hMDNmLTczYTFlYmJhMjRmMyIsImMiOjEwfQ%3D%3D
 
 ##  Key Technologies
 - Power BI  
